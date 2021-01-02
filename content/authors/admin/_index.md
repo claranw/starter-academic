@@ -20,7 +20,7 @@ education:
     - course: PhD in Political Science
       institution: University of Konstanz
       year: 2019
-    - course: Visiting Research
+    - course: Visiting Researcher
       institution: Stanford University
       year: 2018
     - course: MSc in International Relations
