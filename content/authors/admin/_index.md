@@ -11,7 +11,7 @@ social:
     link: https://twitter.com/Clara_NW
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?hl=da&pli=1&user=q-XMLtAAAAAJ
+    link: https://scholar.google.com/citations?user=q-XMLtAAAAAJ&hl=en&oi=ao
 organizations:
   - name: Aarhus University
     url: ""
