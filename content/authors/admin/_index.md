@@ -21,15 +21,18 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Political Science
+      institution: University of Konstanz
+      year: 2019
+    - course: Visiting Research
       institution: Stanford University
+      year: 2018
+    - course: MSc in International Relations
+      institution: London School of Economics and Political Science
+      year: 2013
+    - course: BA in Political Science
+      institution: University of Mannheim
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 superuser: true
 highlight_name: false
 title: Clara Neupert-Wentz
@@ -37,6 +40,6 @@ email: ""
 ---
 I am an assistant professor at the Department of Political Science at Aarhus University. My research interest include customary institutions, gender norms, and peace and conflict reaseach.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
